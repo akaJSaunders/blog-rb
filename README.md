@@ -1,6 +1,6 @@
 # Project Description
 
-A simple implementation for a blog using Ruby on Rails following the tutorial https://guides.rubyonrails.org/getting_started.html up to section 7.
+A simple implementation for a blog using Ruby on Rails following the tutorial https://guides.rubyonrails.org/getting_started.html
 
 ## Instructions for running
 1. Clone project
@@ -11,7 +11,3 @@ A simple implementation for a blog using Ruby on Rails following the tutorial ht
 
 ## Features:
 * User can perform all CRUD operations for blog articles
-
-## TODO:
-* Support for CRUD operations for comments on articles
-* User can login to manage comments
